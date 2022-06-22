@@ -21,15 +21,15 @@ export class AppModule {
     const ngElement = createCustomElement(GhButtonComponent, {
       injector: this.injector
     });
-    customElements.define('gh-button', ngElement);
+    customElements.define('wc-gh-button', ngElement);
     const mdoNgElement = createCustomElement(MdoGithubButtonComponent, {
       injector: this.injector
     });
-    customElements.define('mdo-github-button', mdoNgElement);
+    customElements.define('wc-mdo-github-button', mdoNgElement);
     const ntkmeNgElement = createCustomElement(NtkmeButtonComponent, {
       injector: this.injector
     });
-    customElements.define('ntkme-github-button', ntkmeNgElement);
+    customElements.define('wc-ntkme-github-button', ntkmeNgElement);
   }
 
 }
