@@ -1,6 +1,14 @@
 {
   "name": "@flowingcode/wc-ngx-github-buttons",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowingCode/wc-ngx-github-buttons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FlowingCode/wc-ngx-github-buttons/issues"
+  },
+  "homepage": "https://github.com/FlowingCode/wc-ngx-github-buttons#readme",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
