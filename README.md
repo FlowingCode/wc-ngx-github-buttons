@@ -4,7 +4,7 @@ Angular project for wrapping [ngx-github-buttons library components](https://git
 
 Directory "elements" contains the result files with the compilation from Angular to Web components.
 
-All instructions are present in this [blog post]().
+All instructions are present in this [blog post](https://www.flowingcode.com/en/how-to-use-angular-components-with-vaadin/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
@@ -14,6 +14,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - `npm start` to start the demo 
 - `npm run build:elements` to build a single js file with the Angular Components compilation as Web Components.
 - `npx http-server elements` to start a sample demo on how to use the new Web Components.
+
+## Usage
+To install run `npm install @flowingcode/wc-ngx-github-buttons`
 
 ## License
 This project is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
