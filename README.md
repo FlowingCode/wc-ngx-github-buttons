@@ -1,3 +1,5 @@
+[![npm version](https://badgen.net/npm/v/@flowingcode/wc-ngx-github-buttons)](https://www.npmjs.com/package/@flowingcode/wc-ngx-github-buttons)
+
 # @flowingcode/wc-ngx-github-buttons
 
 Angular project for wrapping [ngx-github-buttons library components](https://github.com/scttcper/ngx-github-buttons) into Web Components using @angular/elements. 
